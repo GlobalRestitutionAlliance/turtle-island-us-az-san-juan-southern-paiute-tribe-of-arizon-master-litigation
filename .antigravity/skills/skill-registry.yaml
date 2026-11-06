@@ -7,8 +7,8 @@ skills:
   name: Historical Intervention & Canal Concession Audit
   status: ACTIVE
   manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: nicaraguan-restitution-roadmap-and-qsf-trust-execution
-  name: Nicaraguan Restitution Roadmap & QSF Trust Execution
+- id: san-juan-southern-paiute-tribe-of-arizonan-restitution-roadmap-and-qsf-trust-execution
+  name: San Juan Southern Paiute Tribe of Arizonan Restitution Roadmap & QSF Trust Execution
   status: ACTIVE
-  manifest_file: .antigravity/skills/nicaraguan-restitution-roadmap-and-qsf-trust-execution.yaml
+  manifest_file: .antigravity/skills/san-juan-southern-paiute-tribe-of-arizonan-restitution-roadmap-and-qsf-trust-execution.yaml
 total_skills: 3
