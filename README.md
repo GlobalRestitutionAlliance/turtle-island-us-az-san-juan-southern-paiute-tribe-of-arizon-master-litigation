@@ -1,6 +1,6 @@
 # US AZ SAN JUAN SOUTHERN PAIUTE TRIBE OF ARIZON - Litigation Framework
 
-**Template:** GRA litigation framework
+**Template:** CUBA-adapted framework
 **Generated:** 2026-11-21
 **Status:** SCAFFOLD - verification required. No fabricated citations.
 
